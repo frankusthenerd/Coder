@@ -1,0 +1,8 @@
+letter-w=16
+letter-h=16
+width=400
+height=300
+memory=2000
+interrupt=0
+stack=3
+program=475
